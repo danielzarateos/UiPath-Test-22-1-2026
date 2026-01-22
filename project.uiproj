@@ -1,0 +1,6 @@
+{
+  "Name": "Neostella",
+  "ProjectType": "Process",
+  "Description": "UiPath ACME Log, Workitems Extract, Filter Data, Process on platform, Export.",
+  "MainFile": "Main.xaml"
+}
