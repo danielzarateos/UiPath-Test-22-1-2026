@@ -5,7 +5,7 @@
     "ProjectType": "Process",
     "Name": "Neostella",
     "Description": "UiPath ACME Log, Workitems Extract, Filter Data, Process on platform, Export.",
-    "LastModifiedTime": "2026-01-22T13:57:36.4688168Z",
+    "LastModifiedTime": "2026-01-22T15:10:43.1450457Z",
     "CreationTime": "2026-01-22T13:39:11.9661125Z",
     "UserId": "89b188d0-3d19-45f0-9585-c1de4034f337",
     "RootFolder": {
@@ -119,6 +119,11 @@
               "IsMain": false
             },
             {
+              "Id": "403db79f-452a-4e9c-9938-8e8a7910b3b8",
+              "Name": "0522062187_522062170_IDVerification_12_22_2025 8_45_28 PM.pdf",
+              "IsMain": false
+            },
+            {
               "Id": "7f8cda54-8741-4fc9-a5e5-ce2d9a2e84a3",
               "Name": "Check-Request-For-108785171.pdf",
               "IsMain": false
@@ -126,6 +131,11 @@
             {
               "Id": "7feeb0ca-bb0e-4b95-8138-b0a0f5240085",
               "Name": "Check-Request-For-108785179.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "835225b2-eb9f-4c98-9fb0-a1de50993c15",
+              "Name": "0522062187_0522062170_122225_41606987_CC.pdf",
               "IsMain": false
             },
             {
@@ -1199,6 +1209,11 @@
           "IsMain": false
         },
         {
+          "Id": "7938d0b9-ee13-4d69-b210-0de05e59e818",
+          "Name": "README.md",
+          "IsMain": false
+        },
+        {
           "Id": "5961bcba-3d76-401d-bba8-5cb213895e1a",
           "Name": "project.uiproj",
           "IsMain": false
@@ -1251,6 +1266,7 @@
     ".project/design.json": "D1f9H44ht\u002Bs2pCbXw5MEuq5cz60YKu8d7bi05HsrbK0=",
     ".screenshots/14812b38b10730a5235948f080e0736c.png": "tej4huzveBvnZpdG1KjBS69WvdIQHVqI1mZHfhpJjGg=",
     "Outputs/Check-Request-For-108785175.pdf": "u7viLIryt3EgmyLJR76\u002B01FmJacd7bt9wvVp62\u002Bth4M=",
+    "Outputs/0522062187_522062170_IDVerification_12_22_2025 8_45_28 PM.pdf": "H725idt2AzV6QfMgM9s43BdrOnCgK8IxytGGVEbj3dQ=",
     ".storage/.runtime/AncestryPersistenceService/0c891278-f3b1-4a17-aa56-39cfc48da470_f254663a-71fa-4694-b045-2a3834882c3a": "VV/OR\u002B\u002Bk7NPHc8pVxgkcE1VDfJe4qCsV2PVej1pc6xw=",
     "Main.xaml.json": "z1jCFMoDeNq6o1svvafnTT\u002Bwnxs\u002BMdkzaf/cN7qboc8=",
     "Outputs/Check-Request-For-108785173.pdf": "MspfQe3OJc93rnd46y9l0Go1hInut8TgOB35ISA1Nx4=",
@@ -1258,10 +1274,10 @@
     ".objects/ElXT/XKnP/1aOK/.data/ObjectRepositoryScreenData/.content": "gK7iCxaa9tacSMnKyjaAjXxBwE1RsUmYQvfXJ\u002B96ie0=",
     ".storage/.runtime/AncestryPersistenceService/373ae171-f107-4403-8945-9b17e0241576_d5eb3f0c-8737-401b-b364-7a8727407bfb": "Ze0xvMLtfeZERsXoAbYqAjdjADyODuqKTw7EbCERoDI=",
     ".objects/ElXT/XKnP/1aOK/H7Yy/.metadata": "D3MFDbpYFVysqgHktub\u002B5SDR5TjvFpTZFuWuM/21xqQ=",
-    "Outputs/Check-Request-For-108785191.pdf": "XiSOmRl6QVGnYKD4VmAVBCQVlNHXflkTBslCR/3e0p0=",
     ".screenshots/84c22366e6fa5af8c1cd736b19173382.png": "2gY0g7tQFZidvodnfjhaOw8nvYfDuCcbroeF/bac\u002BmM=",
-    ".objects/MBvK/.type": "DQS/631ktxx0/JJcypPWgxVOjMfm5YOPrO1JjjTJmE0=",
+    "Outputs/Check-Request-For-108785191.pdf": "XiSOmRl6QVGnYKD4VmAVBCQVlNHXflkTBslCR/3e0p0=",
     ".objects/MBvK/.metadata": "AIkCUpAZfVjcd7xn6tET4P7dr3ICkPPzQKsSgsS1adY=",
+    ".objects/MBvK/.type": "DQS/631ktxx0/JJcypPWgxVOjMfm5YOPrO1JjjTJmE0=",
     ".screenshots/91168f1b646551ebc5a4634f2490ad4d.png": "WwxjHB7uxCDooUiVOVZ8X65pyXhuBQxQyewPgjWKnHk=",
     ".screenshots/a14aa103996d4e686aa1775a963cee6d.png": "IVQNfT5nSrbws5V8P8vgl/b6Ifpm0nhhlrmQkWMNmQQ=",
     ".objects/ElXT/XKnP/qeWy/.type": "blYTfiHTIiouMTX8NFgob8P7ay4sZ56a4o2yaP6YKvc=",
@@ -1337,8 +1353,8 @@
     ".objects/ElXT/XKnP/1aOK/H7Yy/.data/ObjectRepositoryTargetData/.content": "GMO/voJDJot/ohrZZTNtt5k8zjqbopnijqs9jyUosHE=",
     "Outputs/Client-Check-Copy-Report-22-01-2026.xlsx": "mJfUVc/wfplX8OJnbrJtBN6oQNfaKcRdBaVU6cNl45Q=",
     "Outputs/Check-Request-For-108785183.pdf": "KUENeuLzjW7wnMdOnDIWBHxJMHfpj9Zqx5uvAN1sOtE=",
-    "Outputs/Check-Request-For-108785190.pdf": "O9A8PHIPUhGOOOPtJwc/Yj3lA09NMYxDqKiC1nG6FNg=",
     ".settings/Release/settings-5190454b.json": "6ud6qyOj3C93hV1irOUAiHHtFhixNW\u002BVGG8BuThc7Xg=",
+    "Outputs/Check-Request-For-108785190.pdf": "O9A8PHIPUhGOOOPtJwc/Yj3lA09NMYxDqKiC1nG6FNg=",
     ".storage/.runtime/AncestryPersistenceService/c733e017-78fe-4c50-8a7c-f044d172004d_c952cd04-d39c-4918-9d6f-686c7da08954": "ruJwA19b5tSzwPT7Mrhrh8VrkbuJ15c2Ndf\u002B5Wimgd8=",
     ".screenshots/75e88014ef2a528f21d197465c70238e.png": "1aE3wRgB11duf1DwxgFOvrWtHso0oc2lnl5Xw7jIgR4=",
     "Outputs/Check-Request-For-108785168.pdf": "ZoU78y\u002BddIsY/\u002BaI339NUF1qsGR4Vqu1NZ1g8o3dKL8=",
@@ -1349,6 +1365,7 @@
     ".objects/ElXT/XKnP/1aOK/.metadata": "SmE\u002B57AVIIMvJOIFxZFNPcL7snLd6E7ui/xeF4sJlXQ=",
     ".screenshots/23fb0f8b07121d160971a4221fa0750e.png": "BrXQ6ZfALFHMe/Nce9fDnEsugW27vFBif7rB6CKlGSg=",
     ".screenshots/1cecb0dfe495677a28367d9fa1d2fd9d.png": "9dlqGUv20XkgRmFZ33ne7KLdUmtC3DhxkgT2xIfOHbc=",
+    "README.md": "17BFHl8Y6/1\u002BojvjLzB4rhB16lwjcv7ZtSoRPF3VSow=",
     "Outputs/Check-Request-For-108785177.pdf": "T9tUPnoEGabnHY8wJYvoqp/CA0IC24Q9PLh9qyCyAy8=",
     "Outputs/Check-Request-For-108785188.pdf": "oCY1xHnzbEx3JRDvcOutMEcujWCbLgsHhpB2Q1\u002BS4kQ=",
     ".settings/Release/settings-a1b2dac1.json": "QZ0k3i2rQBsfn8O\u002Bajr3Alii2b2uTW/O1TULoDTKf6E=",
@@ -1356,6 +1373,7 @@
     ".objects/MBvK/GJaB/yqza/WZQS/.data/ObjectRepositoryTargetData/.images/.design/0cpFG7pyKT0exxxKocglnBw": "tej4huzveBvnZpdG1KjBS69WvdIQHVqI1mZHfhpJjGg=",
     ".objects/ElXT/XKnP/1aOK/xOwV/.type": "TltUjW1h8ABoQKyhBvdGSktZ5ahUMX1bV4YbhCOQG/Y=",
     ".objects/ElXT/XKnP/1aOK/.data/ObjectRepositoryScreenData/.images/.design/0ySyu9VV9SkmQ0h0sJQh4Kg": "IVQNfT5nSrbws5V8P8vgl/b6Ifpm0nhhlrmQkWMNmQQ=",
+    "Outputs/0522062187_0522062170_122225_41606987_CC.pdf": "lh7fhC5jWxmdfei\u002B6aH9LeTFzAiYyLY66q5HsVJzugA=",
     ".project/globalVariables.json": "nmccEuoz\u002BOGrXNVZR9DoqW7cLfXw1FEKkVof\u002BRndrI8=",
     ".screenshots/5633b4f88129830cc718f39e6b6f7c23.png": "iHtNoBEVHxhEAOKqJ4QNLinkWT8r/7Eht4gcTn2swI8=",
     ".objects/.metadata": "OfTxhBZdxgOyQDGA0HQmLIeDlDy\u002BFQv8BFs\u002BtWp22xI=",
@@ -1474,6 +1492,7 @@
     ".project/design.json",
     ".screenshots/14812b38b10730a5235948f080e0736c.png",
     "Outputs/Check-Request-For-108785175.pdf",
+    "Outputs/0522062187_522062170_IDVerification_12_22_2025 8_45_28 PM.pdf",
     ".storage/.runtime/AncestryPersistenceService/0c891278-f3b1-4a17-aa56-39cfc48da470_f254663a-71fa-4694-b045-2a3834882c3a",
     "Main.xaml.json",
     "Outputs/Check-Request-For-108785173.pdf",
@@ -1481,10 +1500,10 @@
     ".objects/ElXT/XKnP/1aOK/.data/ObjectRepositoryScreenData/.content",
     ".storage/.runtime/AncestryPersistenceService/373ae171-f107-4403-8945-9b17e0241576_d5eb3f0c-8737-401b-b364-7a8727407bfb",
     ".objects/ElXT/XKnP/1aOK/H7Yy/.metadata",
-    "Outputs/Check-Request-For-108785191.pdf",
     ".screenshots/84c22366e6fa5af8c1cd736b19173382.png",
-    ".objects/MBvK/.type",
+    "Outputs/Check-Request-For-108785191.pdf",
     ".objects/MBvK/.metadata",
+    ".objects/MBvK/.type",
     ".screenshots/91168f1b646551ebc5a4634f2490ad4d.png",
     ".screenshots/a14aa103996d4e686aa1775a963cee6d.png",
     ".objects/ElXT/XKnP/qeWy/.type",
@@ -1560,8 +1579,8 @@
     ".objects/ElXT/XKnP/1aOK/H7Yy/.data/ObjectRepositoryTargetData/.content",
     "Outputs/Client-Check-Copy-Report-22-01-2026.xlsx",
     "Outputs/Check-Request-For-108785183.pdf",
-    "Outputs/Check-Request-For-108785190.pdf",
     ".settings/Release/settings-5190454b.json",
+    "Outputs/Check-Request-For-108785190.pdf",
     ".storage/.runtime/AncestryPersistenceService/c733e017-78fe-4c50-8a7c-f044d172004d_c952cd04-d39c-4918-9d6f-686c7da08954",
     ".screenshots/75e88014ef2a528f21d197465c70238e.png",
     "Outputs/Check-Request-For-108785168.pdf",
@@ -1572,6 +1591,7 @@
     ".objects/ElXT/XKnP/1aOK/.metadata",
     ".screenshots/23fb0f8b07121d160971a4221fa0750e.png",
     ".screenshots/1cecb0dfe495677a28367d9fa1d2fd9d.png",
+    "README.md",
     "Outputs/Check-Request-For-108785177.pdf",
     "Outputs/Check-Request-For-108785188.pdf",
     ".settings/Release/settings-a1b2dac1.json",
@@ -1579,6 +1599,7 @@
     ".objects/MBvK/GJaB/yqza/WZQS/.data/ObjectRepositoryTargetData/.images/.design/0cpFG7pyKT0exxxKocglnBw",
     ".objects/ElXT/XKnP/1aOK/xOwV/.type",
     ".objects/ElXT/XKnP/1aOK/.data/ObjectRepositoryScreenData/.images/.design/0ySyu9VV9SkmQ0h0sJQh4Kg",
+    "Outputs/0522062187_0522062170_122225_41606987_CC.pdf",
     ".project/globalVariables.json",
     ".screenshots/5633b4f88129830cc718f39e6b6f7c23.png",
     ".objects/.metadata",
